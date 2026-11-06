@@ -14,4 +14,4 @@ Key Features
 
 -Disbursement Tracking & Ledger Logs: Maintains systematic financial records and transaction logs to guarantee transparency and accountability throughout the distribution process.
 
-- **Structured Java Architecture:** Built using clean, scalable object-oriented principles to ensure maintainability, security, and smooth database operations.
+-Structured Java Architecture: Built using clean, scalable object-oriented principles to ensure maintainability, security, and smooth database operations.
