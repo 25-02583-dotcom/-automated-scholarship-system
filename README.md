@@ -11,26 +11,26 @@ The proposed Automated Scholarship Application, Document Validation, and Disbur
 
 ## Key Features :
 
-Applicant & Application Management:
+### Applicant & Application Management:
 
 Allows applicants to select available scholarship programs and staff to manage applicant records and categories.
 
-Automated Document Validation:
+### Automated Document Validation:
 
 Programmatically checks document parameters (GWA, income caps, document completeness) against scholarship eligibility thresholds without manual calculation.
 
-Smart Completeness Checker:
+### Smart Completeness Checker:
 
 Automatically flags incomplete requirement sets before final review, preventing submission of invalid applications.
 
-Application Progress Tracker:
+### Application Progress Tracker:
 
 Monitors real-time status transitions ( ubmitted → Pending Verification → Verified → Approved / Rejected).
 
-Automated Disbursement Monitoring:
+### Automated Disbursement Monitoring:
 
 Logs stipend payout amounts, dates, and balance statuses while automatically highlighting pending or delayed disbursements.
 
-Summary & Reporting Module:
+### Summary & Reporting Module:
 
 Generates formatted summaries of applicants, document verification logs, and disbursement histories.
