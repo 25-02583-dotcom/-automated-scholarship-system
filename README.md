@@ -1,6 +1,6 @@
 # Automated Scholarship Application, Document Validation, and Disbursement Monitoring System
 
-Overview
+## Overview
 
 Scholarship applicants often submit multiple supporting documents to verify their identity, academic standing, and financial eligibility. Processing these submissions manually can be 
 labor-intensive and error-prone for scholarship administrators. Paper-based records and 
@@ -9,7 +9,7 @@ submissions, delayed verification, and imprecise tracking of stipend disbursemen
  
 The proposed Automated Scholarship Application, Document Validation, and Disbursement Monitoring System streamlines the application process through a structured Java-based application. It automates requirement validation against predefined criteria and maintains systematic disbursement logs to ensure accurate, transparent, and prompt distribution of educational assistance.
 
-Key Features :
+## Key Features :
 
 Applicant & Application Management:
 
