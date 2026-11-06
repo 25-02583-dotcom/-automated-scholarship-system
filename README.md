@@ -2,16 +2,35 @@
 
 Overview
 
-The **Automated Scholarship Application, Document Validation, and Disbursement Monitoring System** is a robust Java-based backend application designed to modernize and streamline the educational assistance workflow. 
+Scholarship applicants often submit multiple supporting documents to verify their identity, academic standing, and financial eligibility. Processing these submissions manually can be 
+labor-intensive and error-prone for scholarship administrators. Paper-based records and 
+unorganized digital repositories frequently lead to misplaced documents, duplicate 
+submissions, delayed verification, and imprecise tracking of stipend disbursements.
+ 
+The proposed Automated Scholarship Application, Document Validation, and Disbursement Monitoring System streamlines the application process through a structured Java-based application. It automates requirement validation against predefined criteria and maintains systematic disbursement logs to ensure accurate, transparent, and prompt distribution of educational assistance.
 
-Traditional scholarship processes are often prone to delays, manual errors, and a lack of transparency. This system addresses those challenges by automating requirement validation against predefined institutional criteria and maintaining systematic, tamper-evident disbursement logs to ensure accurate, transparent, and prompt distribution of funds.
+Key Features :
 
-Key Features
+Applicant & Application Management:
 
--Automated Screening & Validation: Instantly evaluates and validates applicant qualifications and submitted documents against strict institutional rules.
+Allows applicants to select available scholarship programs and staff to manage applicant records and categories.
 
--Secure Document Management: Organizes and tracks student credentials, transcripts, and supporting files with controlled access.
+Automated Document Validation:
 
--Disbursement Tracking & Ledger Logs: Maintains systematic financial records and transaction logs to guarantee transparency and accountability throughout the distribution process.
+Programmatically checks document parameters (GWA, income caps, document completeness) against scholarship eligibility thresholds without manual calculation.
 
--Structured Java Architecture: Built using clean, scalable object-oriented principles to ensure maintainability, security, and smooth database operations.
+Smart Completeness Checker:
+
+Automatically flags incomplete requirement sets before final review, preventing submission of invalid applications.
+
+Application Progress Tracker:
+
+Monitors real-time status transitions ( ubmitted → Pending Verification → Verified → Approved / Rejected).
+
+Automated Disbursement Monitoring:
+
+Logs stipend payout amounts, dates, and balance statuses while automatically highlighting pending or delayed disbursements.
+
+Summary & Reporting Module:
+
+Generates formatted summaries of applicants, document verification logs, and disbursement histories.
